@@ -1,16 +1,16 @@
 ---
 layout: post
 title:      "What learning Spanish taught me about Ruby"
-date:       2019-06-06 21:38:05 +0000
+date:       2019-06-06 17:38:06 -0400
 permalink:  what_learning_spanish_taught_me_about_ruby
 ---
 
 
-Ruby is the second language I learned as an adult. When I moved to Colombia in 2014 as a gringa from New Jersey, I was lucky if I could throw a noun and a conjugated verb together with confidence. Adjectives, adverbs and appropriate intonation in Spanish came much later. 
+Ruby is the second language I've ventured into learning as an adult. When I moved to Colombia in 2014 as a gringa from New Jersey, I was lucky if I could throw a noun and a conjugated verb together with confidence. Adjectives, adverbs and appropriate intonation in Spanish came much later. 
 
 A month ago, I barely knew what a script was, let alone that there were different programming languages with their own rules and quirks.  
 
-Fortunately, learning a coding language reminds me of learning Spanish.  Syntax remains critical. I learned the hard way that ever `do` must have an `end`, just as there is an important difference between “asking a *stupid* question” and “asking a question, *stupid*.” 
+Fortunately, learning a coding language reminds me of learning Spanish.  Syntax remains critical. I learned the hard way that every `do` must have an `end`, just as there is an important difference between “asking a *stupid* question” and “asking a question, *stupid*.” 
 
 In some ways it’s refreshing to simply get an error message detailing the mistake instead of disapproving stares and laughter. 
 
