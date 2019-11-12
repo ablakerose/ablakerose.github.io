@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "MovingOut: Your neighborhood yardsale."
-date:       2019-11-12 02:22:02 +0000
+date:       2019-11-11 21:22:03 -0500
 permalink:  movingout_your_neighborhood_yardsale
 ---
 
