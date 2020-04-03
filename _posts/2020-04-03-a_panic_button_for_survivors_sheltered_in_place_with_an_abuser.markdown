@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A panic button for survivors sheltered in place with an abuser"
-date:       2020-04-03 19:29:27 +0000
+date:       2020-04-03 15:29:27 -0400
 permalink:  a_panic_button_for_survivors_sheltered_in_place_with_an_abuser
 ---
 
