@@ -1,34 +1,43 @@
 ---
 layout: post
-title:      "What do wealth and poverty really mean? "
-date:       2020-03-29 19:51:25 +0000
+title:      "What do wealth and poverty really mean?"
+date:       2020-03-29 15:51:26 -0400
 permalink:  what_do_wealth_and_poverty_really_mean
 ---
 
+This is the questions economist Manfred Max-Neef used to confront extreme poverty, unemployment and housing insecurity plaguing Latin America in 1985. Through his Human Scale Development model, Neef argues economic development needs to be rooted in people, not production. Wealth comes from satisfaction of nine fundamental human needs: protection, affection, identity, understanding, subsistence, leisure, participation, creation, and freedom. In contrast, when one or more of those needs goes unfulfilled, the deficiency is evidence of poverty. 
 
-These are the questions Manfred Max-Neef used to guide him during his Human Scale Development project in Chile in 1985. Knowing that big changes were necessary to address extremely high rates of poverty, unemployment and housing insecurity throughout countries in Latin America but highly skeptical of existing development models that relied exclusively on production, Neef used a different approach. 
+**Why does knowing about needs matter?**
 
-A bottom up approach that asked communities to identify inhibitors to the satisfaction of their nine fundamental human needs and brainstorm ways in which to eliminate them.  Contravening other development models which prioritize production and hoping wealth creation will trickle down to the people, the project prioitized people over things. It implemented a bottom-up approach, to create forms of economic organization in which goods empower satisfiers to meet fully and consistently fundamental human needs.
+Neef tells the following story to illustrate this economic model and why being cognizant of needs is important. A woman in a village wove two ponchos a week to make her living. A Peace Corps volunteer offered the woman a machine, noticing that with this machine she could make 20 ponchos in the time it was taking her to make her 2 ponchos a week. The volunteer returned to observe her progress and asked how she like the machine. 
 
-The model is this:
-1. Development is about people and not about things. 
-The gross national product (GNP) can only be taken as an indicator as it relates to quality of life. Quality of life depends on the possibilities people have to adequately satisfy their fundamental human needs.
-2. Fundamental human needs are finite, limited in number, and classifiable.
-This is in contrast to the traditional idea that there are many human needs, and that they are insatiable.
-3. Fundamental human needs are the same in all cultures and in all historical periods.
-This is in contrast to the traditional idea that human needs are subject to trends and vary to a great extent.
+"Oh, very nice.” 
+"And how many ponchos are you making?"
+“Two ponchos a week." 
+"What do you mean? You could make many more."
+"Well, but I don’t need to make more."
+"But what is the machine for then?"
+"Well, I make two, but now I have much more time to be with my friends and with my kids."
 
-Applying this framework suggests that real wealth is rooted in meeting needs rather than how much money one has in the bank. Recognizing that poverty exists in not meeting a need can reveal the exist of many poverties in even rich nations. 
+Manfred Max-Neef’s anecdote points to a misunderstanding of poverty. The volunteer assumes that the time the use of the machine freed up is best utilized for making and selling goods, presumably to produce more capital. However, the woman decides her extra time is better spent with loved ones. She demonstrated a sophisticated understanding of what her needs were and which needs to allocate her new surplus of resources toward.
 
-A person working 60 hours a week may be providing sufficiently for the need for subsistence but is that person able to adequately satisfy her/his need for participation, affection, or creation? 
+Needs are not hierarchical. With the exception of subsistence, each need is as important as another. The total lack of affection, or the loss of identity, for example, may lead people to extreme forms of self-destruction and must be considered on par with subsistence. Classifying poverty as the failure to satisfy a need offers a precise look at the existence of many poverties in even rich nations.
 
-What patterns of consumption serve as pseudo-satisfiers? 
+I created the Needs-Satisfiers app to give a user the opportunity to keep track of these needs and identify where their resources of time and energy are going and where they are lacking. 
 
-How can families, friends and communities be stronger when centering ways to satisfy needs for participation, identity, 
+**Not all satisfiers are created equal**
 
-Needs are not hierarchical. With the exception of subsistence,  no need is per se more important than any other. Failure to satisfy a need is a source of poverty. Importantly, Neef points to the fact that total lack of affection, or the loss of identity, may lead people to extremes of self-destruction.
+Though needs are  finite, limited, and classifiable, the ways people choose to satisfy them (“satisfiers”) vary drastically across history, geography, class, and beyond. Time and energy are finite. Satisfiers are represented by being, having, doing, and interacting. Satisfiers in this application focus on doing, taking the form of activities. Not all satisfiers are created equally. If we’re not careful, engaging in certain activities can rob satisfaction of one or multiple needs. 
 
-The analysis of what authentically satisfies these needs for individuals is subjective. The power of the framework lies the exercise of self-reflection. The application is offered to be a diagnostic tool to identify where in life we may be using pseudo-satisfiers that we would better off eliminating versus sinergic satisfiers that would behoove us to identify and replicate?
+As Human Scale Development consultant Inez Aponte asks, a person working 60 hours a week may be providing sufficiently for the need for subsistence but at what cost to her needs for participation, affection, or creation? In pursuit of satisfying a need, we can easily get lost in violating others. Neef calls these satisfiers violators or destroyers. 
 
-How well are your needs being met?
-	
+Furthermore, people are also prone to satisfiers that generate a false sense fo satisfaction for a given need. These are pseudo-satisfiers and identifying them can offer individuals the opportunity to choose different activities that make them happier. What patterns of consumption serve as pseudo-satisfiers?
+
+Synergic satisfiers satisfy multiple needs at once. Knowing these types of satisfiers that can enrich our lives exist allows us to ask how can families, friends and communities be stronger when centering ways to satisfy needs for participation, identity? 
+
+**Why the Needs-Satisfiers app?**
+
+Applying this framework suggests that real wealth is rooted in meeting needs rather than how much money one has in the bank. The analysis of what authentically satisfies these needs for individuals is subjective. The power of the framework lies the exercise of self-reflection. The application is offered to be a diagnostic tool to identify where in life we may be using pseudo-satisfiers that we would better off eliminating versus synergic satisfiers that would behoove us to identify and replicate?
+
+In the next section I will explain in detail how the app was built and what features it offers. Before I delve into the framework, I encourage you to write out a list of your activities for the day or week and ask yourself: How well are your needs being met?
+
