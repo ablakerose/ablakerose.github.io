@@ -7,6 +7,8 @@ permalink:  what_do_wealth_and_poverty_really_mean
 
 This is the question economist Manfred Max-Neef used to confront extreme poverty, unemployment and housing insecurity plaguing Latin America in 1985. Through his Human Scale Development model, Neef argues economic development needs to be rooted in people, not production. Wealth comes from satisfaction of nine fundamental human needs: protection, affection, identity, understanding, subsistence, leisure, participation, creation, and freedom. In contrast, when one or more of those needs goes unfulfilled, the deficiency is evidence of poverty. 
 
+I built the Needs-Satisfiers app to bring his methodology to life. This post will discuss the theory underlying the Needs-Satisfiers app and a post to follow will explain its construction. 
+
 **Why does knowing about needs matter?**
 
 Neef tells the following story to illustrate this economic model and why being cognizant of needs is important. A woman in a village wove two ponchos a week to make her living. A Peace Corps volunteer offered the woman a machine, noticing that with this machine she could make 20 ponchos in the time it was taking her to make her 2 ponchos a week. The volunteer returned to observe her progress and asked how she like the machine. 
