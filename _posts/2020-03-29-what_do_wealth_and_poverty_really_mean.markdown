@@ -14,11 +14,17 @@ I built the Needs-Satisfiers app to bring his methodology to life. This post wil
 Neef tells the following story to illustrate this economic model and why being cognizant of needs is important. A woman in a village wove two ponchos a week to make her living. A Peace Corps volunteer offered the woman a machine, noticing that with this machine she could make 20 ponchos in the time it was taking her to make her 2 ponchos a week. The volunteer returned to observe her progress and asked how she like the machine. 
 
 "Oh, very nice.” 
-"And how many ponchos are you making?"
+
+*"And how many ponchos are you making?"*
+
 “Two ponchos a week." 
-"What do you mean? You could make many more."
+
+*"What do you mean? You could make many more."*
+
 "Well, but I don’t need to make more."
-"But what is the machine for then?"
+
+*"But what is the machine for then?"*
+
 "Well, I make two, but now I have much more time to be with my friends and with my kids."
 
 Manfred Max-Neef’s anecdote points to a misunderstanding of poverty. The volunteer assumes that the time the use of the machine freed up is best utilized for making and selling goods, presumably to produce more capital. However, the woman decides her extra time is better spent with loved ones. She demonstrated a sophisticated understanding of what her needs were and which needs to allocate her new surplus of resources toward.
