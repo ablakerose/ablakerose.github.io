@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Enter your title here"
-date:       2020-05-17 11:12:03 +0000
+title:      "Construction of Holistic Wealth App"
+date:       2020-05-17 07:12:03 -0400
 permalink:  enter_your_title_here
 ---
 
