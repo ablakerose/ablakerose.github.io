@@ -6,7 +6,7 @@ permalink:  enter_your_title_here
 ---
 
 
-As I explained in this post, I built the Holistic Wealth App as a way to visualize and apply Manfred Max Neef’s Human Scale Development methodology to my everyday life— identifying in real time what needs my activities are satisfying and how I can choose synergic satisfiers more often to increase the amount of frequency of satisfying needs. I’ll discuss below the design of the application through three principles of human scale development.
+As I explained in [this post](https://ablakerose.github.io/what_do_wealth_and_poverty_really_mean), I built the Holistic Wealth App as a way to visualize and apply Manfred Max Neef’s Human Scale Development methodology to my everyday life— identifying in real time what needs my activities are satisfying and how I can choose synergic satisfiers more often to increase the amount of frequency of satisfying needs. I’ll discuss below the design of the application through three principles of human scale development.
 
 
 *1. Human needs must be understood as a system: that is, all human needs are inter-related and interactive. *
