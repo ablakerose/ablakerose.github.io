@@ -7,7 +7,7 @@ permalink:  what_do_wealth_and_poverty_really_mean
 
 This is the question economist Manfred Max-Neef used to confront extreme poverty, unemployment and housing insecurity plaguing Latin America in 1985. Through his Human Scale Development model, Neef argues economic development needs to be rooted in people, not production. Wealth comes from satisfaction of nine fundamental human needs: protection, affection, identity, understanding, subsistence, leisure, participation, creation, and freedom. In contrast, when one or more of those needs goes unfulfilled, the deficiency is evidence of poverty. 
 
-I built the Needs-Satisfiers app to bring his methodology to life. This post will discuss the theory underlying the Needs-Satisfiers app and a post to follow will explain its construction. 
+I built the Holistic Wealth app to bring his methodology to life. This post will discuss the theory underlying the Holistic Wealth app and a post to follow will explain its construction. 
 
 **Why does knowing about needs matter?**
 
@@ -43,7 +43,7 @@ Furthermore, people are also prone to satisfiers that generate a false sense fo 
 
 Synergic satisfiers satisfy multiple needs at once. Knowing these types of satisfiers that can enrich our lives exist allows us to ask how can families, friends and communities be stronger when centering ways to satisfy needs for participation, identity? 
 
-**Why the Needs-Satisfiers app?**
+**Why the Holistic Wealth app?**
 
 Applying this framework suggests that real wealth is rooted in meeting needs rather than how much money one has in the bank. The analysis of what authentically satisfies these needs for individuals is subjective. The power of the framework lies the exercise of self-reflection. The application is offered to be a diagnostic tool to identify where in life we may be using pseudo-satisfiers that we would better off eliminating versus synergic satisfiers that would behoove us to identify and replicate?
 
