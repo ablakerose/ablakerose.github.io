@@ -1,11 +1,11 @@
 ---
 layout: post
-title:      "What do wealth and poverty really mean?"
+title:      "What are wealth and poverty? The Holistic Wealth App explained. "
 date:       2020-03-29 15:51:26 -0400
 permalink:  what_do_wealth_and_poverty_really_mean
 ---
 
-This is the question economist Manfred Max-Neef used to confront extreme poverty, unemployment and housing insecurity plaguing Latin America in 1985. Through his Human Scale Development model, Neef argues economic development needs to be rooted in people, not production. Wealth comes from satisfaction of nine fundamental human needs: protection, affection, identity, understanding, subsistence, leisure, participation, creation, and freedom. In contrast, when one or more of those needs goes unfulfilled, the deficiency is evidence of poverty. 
+Locating the source of wealth and poverty is at the heart of what economist Manfred Max-Neef used to confront extreme poverty, unemployment and housing insecurity plaguing Latin America in 1985. Through his Human Scale Development model, Neef argues economic development needs to be rooted in people, not production. Wealth comes from satisfaction of nine fundamental human needs: protection, affection, identity, understanding, subsistence, leisure, participation, creation, and freedom. In contrast, when one or more of those needs goes unfulfilled, the deficiency is evidence of poverty. 
 
 I built the Holistic Wealth app to bring his methodology to life. This post will discuss the theory underlying the Holistic Wealth app and a post to follow will explain its construction. 
 
