@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "A closer reflection "
-date:       2020-05-22 15:26:35 +0000
+title:      "A closer look at satisfiers. "
+date:       2020-05-22 11:26:36 -0400
 permalink:  a_closer_reflection
 ---
 
