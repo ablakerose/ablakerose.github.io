@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From Law to Tech for Good"
-date:       2020-06-21 01:34:45 +0000
+date:       2020-06-20 21:34:46 -0400
 permalink:  from_law_to_tech_for_good
 ---
 
